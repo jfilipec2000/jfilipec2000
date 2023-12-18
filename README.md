@@ -35,7 +35,10 @@ I'm passionate about [Your Interests or Field] and enjoy working with [Technolog
 
 ### Skills:
 
-![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)
+### Skills:
+
+<code><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width="100"/>
+
 
 </div>
 
